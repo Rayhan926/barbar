@@ -1,0 +1,20 @@
+@font-face{
+    font-family: Lato;
+    src:url("../text-font/Lato/Lato-Regular.ttf");
+}
+@font-face{
+    font-family: Raleway;
+    src:url("../text-font/Raleway/Raleway-Regular.ttf");
+}
+@font-face{
+    font-family: Merriweather;
+    src:url("..//text-font/Merriweather/Merriweather-Regular.ttf");
+}
+@font-face{
+    font-family: OpenSans;
+    src:url("../text-font/Open_Sans/OpenSans-Regular.ttf");
+}
+@font-face{
+    font-family: Roboto;
+    src:url("../text-font/Roboto/Roboto-Regular.ttf");
+}
